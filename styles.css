@@ -257,7 +257,7 @@ main {
 
 /*Table 2*/
 
-/* .main-currency-table .currency-table--title-two {
+.main-currency-table .currency-table--title-two {
     margin-top: 20px;
     margin-bottom: 15px;
     font-size: 1.8rem;
@@ -282,7 +282,7 @@ main {
     line-height: 1.4rem;
     color: var(--warm-black);
     font-weight: 300;
-} */
+}
 
 /*Sección benefits*/
 
